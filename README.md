@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmarMDiab
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omarmdiab35@gmail.com
