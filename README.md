@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmdiab&label=Profile%20views&color=0e75b6&style=flat" alt="omarmdiab" /> </p>
-
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **OmarMDiab35@gmail.com**
@@ -22,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmdiab&show_icons=true&locale=en" alt="omarmdiab" /></p>
 
-
+![](https://komarev.com/ghpvc/?username=omarmdiab)
