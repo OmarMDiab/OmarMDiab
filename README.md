@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
   - Data structures & Algorithms
   - Problem Solving
   - Frontend Development using **css & bootstrap**
-  - Anything ^^
   
 - 🌱 I’m currently learning **Cyber Security**
 - 📫 How to reach me **OmarMDiab35@gmail.com**
