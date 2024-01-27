@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">A Software Engineer 🤖</h3>
 
-- 🔭 I’m currently working on [365 Master AiProject]()
+- 🔭 I’m currently working on 365 Master Ai_Project
 
 - 💬 Ask me about
   - Machine Learning
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   - Problem Solving
   - Frontend Development using **css & bootstrap**
   
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **OmarMDiab35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
