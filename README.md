@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">A Software Engineer 🤖</h3>
 
-- 🔭 I’m currently working on 365 Master Ai_Project
+- 🔭 I’m currently working on **365 Master** Ai_Project
 
 - 💬 Ask me about
   - Machine Learning
