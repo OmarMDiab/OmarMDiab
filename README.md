@@ -67,7 +67,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmdiab&" alt="omarmdiab" />
-
-![](https://komarev.com/ghpvc/?username=omarmdiab)
+</div>
