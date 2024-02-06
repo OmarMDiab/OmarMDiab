@@ -8,7 +8,8 @@ You can click the Preview link to take a look at your changes.
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td width=55%>
-      - 🔭 I’m currently working on **365 Master** Ai_Project
+      
+- 🔭 I’m currently working on **365 Master** Ai_Project
 
 - 💬 Ask me about
   - Machine Learning
