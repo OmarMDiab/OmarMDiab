@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
 <h3 align="center">A Software Engineer 🤖</h3>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width=55%>
+
       
 - 🔭 I’m currently working on **365 Master** Ai_Project
 
@@ -20,12 +18,8 @@ You can click the Preview link to take a look at your changes.
   
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **OmarMDiab35@gmail.com**
-</td>
-<td>
-  <img src="analyst.gif" alt="Analyst">
-</td>
-</tr>
-</table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omarmdiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarmdiab" height="30" width="40" /></a>
