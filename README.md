@@ -3,7 +3,7 @@ OmarMDiab/OmarMDiab is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Omar Diab</h1>
-<h3 align="center">A ML Engineer 🤖</h3>
+<h3 align="center">A Computer Engineer 🤖</h3>
 
 
       
