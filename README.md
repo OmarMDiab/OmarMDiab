@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
       
-- 🔭 I’m currently working on **365 Master** Ai_Project
+- 🔭 I’m currently working on **LLM bro** Ai_Project
 
 - 💬 Ask me about
   - Machine Learning
