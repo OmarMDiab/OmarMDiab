@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
       
-- 🔭 I’m currently working on the Biggest **Islamic Ai librarian☪️** Chatbot (LLM Project)~(VNCR)
+- 🔭 I’m currently working on the Biggest **Islamic Ai librarian☪️** Chatbot (LLM Project)~(VNCR Ai Team)
 
 - 💬 Ask me about
   - Machine Learning
