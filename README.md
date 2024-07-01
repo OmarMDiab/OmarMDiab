@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
       
-- 🔭 I’m currently working on LLM projects
+- 🔭 I’m currently working on **LLM projects**
 - 💬 Ask me about
   - Machine Learning
   - Networking
